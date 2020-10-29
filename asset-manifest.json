@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chase-blog/static/css/main.41d33011.chunk.css",
+    "main.js": "/chase-blog/static/js/main.79b2052c.chunk.js",
+    "main.js.map": "/chase-blog/static/js/main.79b2052c.chunk.js.map",
+    "runtime-main.js": "/chase-blog/static/js/runtime-main.87f3af81.js",
+    "runtime-main.js.map": "/chase-blog/static/js/runtime-main.87f3af81.js.map",
+    "static/js/2.ec014f34.chunk.js": "/chase-blog/static/js/2.ec014f34.chunk.js",
+    "static/js/2.ec014f34.chunk.js.map": "/chase-blog/static/js/2.ec014f34.chunk.js.map",
+    "index.html": "/chase-blog/index.html",
+    "static/css/main.41d33011.chunk.css.map": "/chase-blog/static/css/main.41d33011.chunk.css.map",
+    "static/js/2.ec014f34.chunk.js.LICENSE.txt": "/chase-blog/static/js/2.ec014f34.chunk.js.LICENSE.txt",
+    "static/media/code_demo.5ba1755a.md": "/chase-blog/static/media/code_demo.5ba1755a.md",
+    "static/media/home.e774aa17.md": "/chase-blog/static/media/home.e774aa17.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f3af81.js",
+    "static/js/2.ec014f34.chunk.js",
+    "static/css/main.41d33011.chunk.css",
+    "static/js/main.79b2052c.chunk.js"
+  ]
+}
